@@ -1,0 +1,49 @@
+.navbar{
+    background-color: #00ffdd;
+    padding: 0px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.MenuB{
+    display:inline-block;
+    margin: 0px;
+    padding: 15px;
+    color: rgb(3, 4, 56);
+}
+.navbar a.MenuB:hover{
+    background-color: #055046;
+    color: #ffffff;
+}
+
+
+/* Trying to create a dropdown submenu here 
+
+ .drop-content{
+    display: none;
+}
+
+.drop-content a{
+    display: block;
+    background-color:rgb(3, 4, 56);   
+}
+
+.drop-content a:hover {
+    background-color: rgb(3, 58, 49);
+}
+
+.dropdown-content {
+    display: block;
+} */
+
+#Vacation{
+    float: left;
+    max-width: 70%;
+    height: auto;
+}
+
+.side-image {
+    max-width: 30%;
+    height: auto;
+    display: inline-block;
+}
